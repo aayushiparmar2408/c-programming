@@ -1,0 +1,2 @@
+A program is a set of step by step instructions that tells a computer how to perform a specific task. 
+A daily examples is WhatsApp,which uses a messaging program to instantly send and receive text messages between you phone and you friends.
