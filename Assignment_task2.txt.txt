@@ -1,0 +1,15 @@
+Session 1
+Assignment 1 (task 2)
+
+three popular programing languages
+1. Java
+   -type: both compile and interpreted
+   -Java code is compile into bytecode and then executed by the java virtual machine.
+
+2. Python
+   -type : interpreted
+   -python code is usually executed by an interpreter, making it easy to write and test programs.
+
+3. JavaScript
+   -type : interpreted
+   -JavaScript is mainly interpreted by web browsers and is widely used to create interactive websites.

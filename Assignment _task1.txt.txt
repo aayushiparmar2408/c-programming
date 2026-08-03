@@ -1,0 +1,8 @@
+Session 1
+Assignment 1 (Task 1)
+
+What is a Program?
+A program is a set of instructions given to a computer to perform a specific task. It tells the computer what tp do and how to do it. Programs are written using programming languages such as C, Java and Python. without programs a computer cannot perform useful tasks.
+
+Real life example :\
+WhatsApp is a good example for a program. When I send a message through WhatsApp the program processes the message and delivers it to the receiver over the internet within a few seconds.

@@ -1,0 +1,17 @@
+Session 1 
+Assignment 1 (task 3)
+
+Algorithm : ordering food on swiggy 
+
+1. open the swiggy application.
+2. log in to your account.
+3. enter or confirm your delivery location.
+4. search for a restaurant or food item.
+5. select the restaurant.
+6. choose the food items you want to order.
+7. add the selected items to the cart.
+8. review your cart and click "proceed to checkout."
+9. select or confirm the delivery address.
+10. choose payment method.
+11. complete the payment.
+12. your food order is placed successfully, and you can track the delivery.

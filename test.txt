@@ -1,0 +1,15 @@
+swiggy food ordering algorithm
+1.launch : open the swiggy application on your mobile device.
+2.set location : verify or input your delivery address at the top of the screen.
+3.select service : tap on the food delivery category from the main dashboard.
+4.browse : search for a specific dish, cuisine, or restaurant using the search bar, or scroll through the recommended restaurant list.
+5. select restaurant : tap on your chosen restaurant to view menu.
+6.add items : scroll through the memu and tap the add button next to the desired food items.
+7.customize : select you preferred size, addons, or cooking instructions if prompted, them confirm.
+8.view cart : tap the view cart bar at the bottom of the screen once all items are added.
+9. review order : verify the items, quantities, and delivery address in your cart summary.
+10.apply offers : tap apply coupon to check for available discounts and select the best offer.
+11.proceed : tap the proceed to pay button at the bottom of the cart page.
+
+12.select payment : choose your preferred payment method.
+13.confirmation : wait for the order placed confirmations screen to appear after successful payment tokenization.
