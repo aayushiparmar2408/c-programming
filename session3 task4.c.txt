@@ -1,0 +1,8 @@
+Invalid variable names:
+1st player = firstPlayer
+$score = score
+total-marks = total_marks
+
+player_age = valid
+username = valid
+
