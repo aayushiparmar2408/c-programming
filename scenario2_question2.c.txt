@@ -1,0 +1,12 @@
+Section 1
+Scenario 2
+question 2:
+
+The team should use a Git branching and pull request workflow instead of pushing code directly to the main branch.
+Each teammate should create a separate feature branch, work on it, test the code, and then create a pull request to merge the changes into main. Another teammate should review the code before merging it.
+
+Git commands:
+git stutas
+git add . 
+git commit -m "filename"
+git push -u origin master

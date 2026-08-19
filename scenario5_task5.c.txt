@@ -1,0 +1,7 @@
+section 1
+scenario 5
+question 5:
+
+Two-step logic
+First step: Calculate the total rainfall and then find the monthly average.
+Second step: Compare each day's rainfall with the average and print the days having rainfall above the average.

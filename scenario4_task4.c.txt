@@ -1,0 +1,6 @@
+section 1
+scenario 4
+question 4:
+
+1. Bootstrap grid ka explanation — kaise mobile par 1 column aur desktop par 3 columns bante hain.
+2. Class combination/code — col-12 col-md-4 aur har class ka role.

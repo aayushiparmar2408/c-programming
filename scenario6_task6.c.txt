@@ -1,0 +1,15 @@
+section 1
+scenario 6 
+question 6:
+
+Why the program crashes:
+When the user presses Enter without typing anything, the input contains a newline character (\n) followed by the string-ending character (\0). The program should check for empty input before dereferencing or processing the pointer.
+
+Pointer check:
+Before dereferencing the pointer, check whether it points to an empty input. For example:
+if (*p == '\n' || *p == '\0')
+
+Pointer vs Array:
+Array notation uses str[i], while pointer notation uses *p and p++ to move through the string.
+
+Pointer traversal can make the empty-input check easier to understand because we directly check the character pointed to by the pointer.

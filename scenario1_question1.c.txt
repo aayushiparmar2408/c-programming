@@ -1,0 +1,9 @@
+Section 1
+Scenario s1
+Question 1:
+
+Agile methodology is recommended for this project because the requirements are frequently changing and the client wants to review working features every two weeks. Agile works in short iterations (sprints), allowing the team to develop, test, demonstrate, and improve features regularly.
+
+Two risks of choosing the wrong methodology:
+Changing requirements: Waterfall would make requirement changes difficult and expensive after development has started.
+Late feedback: The client may not review working features until much later, which can cause rework, delays, and additional costs.
