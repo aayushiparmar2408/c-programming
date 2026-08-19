@@ -1,0 +1,12 @@
+session 1 
+task 5:
+
+Comparison: C vs OOP
+
+Data and functions were separate in C.
+
+In OOP, data and methods are combined inside a class, making the program easier to manage.
+Managing task status was difficult in C.
+In OOP, the markTaskDone() method easily changes the task status to DONE.
+Managing multiple tasks required more code in C.
+In OOP, methods like addTask(), markTaskDone(), and showTasks() make task management easier.
